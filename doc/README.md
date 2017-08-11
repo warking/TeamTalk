@@ -17,6 +17,8 @@
 ## 3、编译服务端
 	
 	经历了编译服务端依赖，pb之后，就可以执行server目录下的build.sh脚本
+	./build.sh version xxxx 
+	before the server compiling, you need to have gcc 4.9.2 or later, gcc setup description in the section below
 	
 ## 4、部署说明
 	
